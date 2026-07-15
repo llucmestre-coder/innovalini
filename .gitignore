@@ -1,0 +1,13 @@
+# Documents interns — el repositori és públic i el client el pot llegir
+PLA.md
+REUNION-CLIENTE.md
+PRIMER-CONTACTE.md
+prompt*.md
+
+# Workflow de ressenyes: el token de gh no té permís 'workflow',
+# es queda al disc i es puja a part quan es refresqui l'scope.
+.github/
+
+# Sistema
+.DS_Store
+Thumbs.db
